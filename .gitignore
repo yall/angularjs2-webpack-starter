@@ -1,0 +1,19 @@
+# General
+*~
+*.log
+tmp
+dump
+
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Mac
+.DS_Store
+
+# Node & typings
+node_modules
+typings
